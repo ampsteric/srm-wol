@@ -1,0 +1,81 @@
+body{
+    background-color: #00818A;
+margin: 0px;
+color:white;
+}
+
+.header{
+    background-color: #293462;
+    position:fixed;
+    width:100%;
+
+}
+.header li{
+    float: right;
+font-size:40px;
+padding: 0px 40px 20px 0px;
+height: 30px;
+ color:#F7BE16;
+
+}
+li{
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+a:link{
+    color:#F7BE16;
+}
+
+a:visited{
+    color:#F7BE16;
+
+}
+a:hover{
+    color:black;
+}
+
+
+.decimal{
+padding-top: 250px;
+float:right;
+padding-right:300px;
+}
+
+.decimal input{
+background-color:#F7BE16;
+border-bottom:2px solid white;
+color:black;
+border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
+
+p{
+    color: white;
+    padding:0px;
+    margin: 0px;
+}
+
+.image img{
+    float: left;
+    height:500px;
+    width:500px;
+}
+
+.image{
+    width:50%;
+    padding-top:100px;
+    padding-left:50px;
+}
+
+
+
+
